@@ -8,7 +8,7 @@ The goal was to learn the basics of the Database with Rails and build an SQL dat
 You need at least ruby 2.5.1 (maybe under but not tested) and bundler installed on your computer.
 
 1. First of all `git clone the repo`
-2. Run `$ cd active_record_blog`
+2. Run `$ cd active_record_moocademy`
 3. Run `$ bundle install`
 4. Run `$ rake db:reset` which gonna clean all the cells of our database, and create brand new tables along with our `seeds.rb` file
 5. To play with the database run `$ rails console`
