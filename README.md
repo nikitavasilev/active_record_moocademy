@@ -52,4 +52,4 @@ This project was build with the help of:
 
 ## Contact
 
-Problems or questions? File an issue at [GitHub](https://github.com/nikitavasilev/active_record_blog/issues).
+Problems or questions? File an issue at [GitHub](https://github.com/nikitavasilev/active_record_moocademy/issues).
